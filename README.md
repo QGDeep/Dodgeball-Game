@@ -1,2 +1,2 @@
 # Dodgeball-Game
-A Dodgeball game created in UE5 using C++ and Blueprints
+A Dodgeball game where the player must navigate a mase filled with hidden enemies and escape the maze.

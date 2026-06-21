@@ -1,4 +1,21 @@
 # Dodgeball-Game
-A Dodgeball game where the player must navigate a mase filled with hidden enemies and escape the maze.
+A maze-based dodgeball game focused on enemy persuit and player evasion.
 
-Link to itch.io project page provided.
+Link to playable demo in Itch.IO - [Playable Demo Link](https://qgdeep.itch.io/dodgeball)
+
+## Features
+- Enemy AI
+- Player Tracking
+- Collision Systems
+- Escape Mechanics
+
+## Technologies
+- Unreal Engine 5
+- C++
+- Blueprints
+- AI Behaviour Systems
+
+## Tachnical Challenges
+- AI Navigation
+- Maze Traversal
+- Player Feedback
